@@ -4,3 +4,4 @@ Projeto voltado à prática de técnicas de Programação Orientada à Objetos u
 O projeto consiste na implementação de um sistema de empréstimos de livros numa biblioteca.
 
 O sistema foi modelado seguindo o diagrama abaixo:
+![Modelo do Sistema de Empréstimos - Biblioteca](modelo_biblioteca.png)
